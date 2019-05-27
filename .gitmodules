@@ -1,0 +1,3 @@
+[submodule "homeworks/week1/coding/AI_Simple_Classifier"]
+	path = homeworks/week1/coding/AI_Simple_Classifier
+	url = git@github.com:clemencegoh/AI_Simple_Classifier.git
